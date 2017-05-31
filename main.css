@@ -1,3 +1,22 @@
-table tr:nth-child(1),table tr:nth-child(2){
-    text-align: center;
+body{ 
+    margin: 20px 10px;
+}
+hr{ 
+    margin: 20px 0;
+}
+blockquote { 
+    color: blue; 
+}
+/*
+h1 { 
+    color: rgba(0,0,0,0); 
+} 
+*/
+strong { 
+    color: #00f;
+    color: #f00;
+}
+blockquote { 
+ color: #fff;
+ background-color: gold;
 }
